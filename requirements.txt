@@ -8,3 +8,4 @@ tqdm==4.67.1
 torch==2.7.1
 torchvision==0.22.1
 torchinfo==1.8.0
+huggingface_hub==0.33.2
