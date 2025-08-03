@@ -1,0 +1,1 @@
+FII Nexus AI summer course, Week 5 multimodal AI program created as part of classwork. Run using Azure VSCode. Model was not fully trained due to time constraints (calculated to need 25 hours), instead a pretrained model was used. 
